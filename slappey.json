@@ -1,0 +1,13 @@
+{
+  "name": "Discord-Bot_tutorial",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "TOKEN HERE",
+  "prefix": "-",
+  "color": "#ffa500",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Discord.png",
+  "Emoji1": "🇺🇸",
+  "Emoji2": "🏴‍☠️",
+  "Role1": "English",
+  "Role2": "Pirate"
+}
